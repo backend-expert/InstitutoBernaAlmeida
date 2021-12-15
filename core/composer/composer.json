@@ -1,0 +1,18 @@
+{
+    "name": "instituto/system",
+    "description": "Dependenciais composer",
+    "authors": [
+        {
+            "name": "Instituto Berna",
+            "email": "isite7699@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"Classes\\": "../../classes",
+    		"Models\\": "../../models",
+    		"Traits\\": "../../traits"
+    	}
+    }
+}
