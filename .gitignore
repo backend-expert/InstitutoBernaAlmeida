@@ -15,7 +15,6 @@ composer.phar
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
 *.orig
-.gitattributes
 
 
 # Created by git when using merge tools for conflicts
