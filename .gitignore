@@ -9,10 +9,9 @@ composer.phar
 
 
 ### Application ###
-.beta/
 beta2
 /beta3/
-/beta4/
+/betalight/
 beta5/
 
 ### Git ###
