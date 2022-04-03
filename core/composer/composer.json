@@ -1,16 +1,16 @@
 {
-    "name": "instituto/system",
+    "name": "institutobernalmeida/system",
     "description": "Dependenciais composer",
     "authors": [
         {
-            "name": "Instituto Berna",
+            "name": "Instituto Berna Almeida",
             "email": "isite7699@gmail.com"
         }
     ],
     "require": {},
     "autoload": {
     	"psr-4": {
-    		"Classes\\": "../../classes",
+    		"Classes\\": "../../class",
     		"Models\\": "../../models",
     		"Traits\\": "../../traits"
     	}

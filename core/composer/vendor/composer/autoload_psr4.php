@@ -8,5 +8,5 @@ $baseDir = dirname($vendorDir);
 return array(
     'Traits\\' => array($baseDir . '/../../traits'),
     'Models\\' => array($baseDir . '/../../models'),
-    'Classes\\' => array($baseDir . '/../../classes'),
+    'Classes\\' => array($baseDir . '/../../class'),
 );
