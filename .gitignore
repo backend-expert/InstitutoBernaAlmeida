@@ -9,10 +9,7 @@ composer.phar
 
 
 ### Application ###
-beta2
-/beta3/
-/betalight/
-beta5/
+/config/
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
