@@ -2,7 +2,7 @@
 <section class="home" id="home">
                 <div class="home__container bd-grid">
                     <h1 class="home__title"><span>Assistência</span><br>
-                    a pessoas com Doenças Degenerativas.</h1>
+                    a pessoas com Doenças Degenerativas. new</h1>
 
                  <!--    <div class="home__scroll">
                         <a href="#about" class="home__scroll-link"><i class='bx bx-up-arrow-alt' ></i>Scroll down</a>
