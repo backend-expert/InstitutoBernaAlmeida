@@ -1,7 +1,9 @@
 <header class="l-header">
             <nav class="nav bd-grid">
                 <div>
-                    <a href="#" class="nav__logo">Instituto Berna Almeida</a>
+                    <a href="#" class="nav__logo">
+                       Instituto Berna Almeida
+                   </a> 
                 </div>
 
                 <div class="nav__menu" id="nav-menu">
