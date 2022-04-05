@@ -19,7 +19,6 @@
                         
                         <span class="about__profession"> Tem algo para doar. Conecte-se conosco.</span>
                        
-
                         <div class="about__social">
                             <a href="https://www.facebook.com/institutobernalmeida" target="_blank" class="about__social-icon"><i class="bx bxl-facebook-square"></i></a>
                             <a href="https://www.instagram.com/institutobernalmeida" target="_blank" class="about__social-icon"><i class="bx bxl-instagram" ></i></a>
