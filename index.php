@@ -10,7 +10,7 @@
 <?php include (DIRREQ."core/templates/home.php");  ?>
 
 <!-- ARTIGOS RECENTES | BLOG	 -->
-<?php include (DIRREQ."core/templates/archives-blog.php");  ?>
+<?php //include (DIRREQ."core/templates/archives-blog.php");  ?>
 
 <!-- SECTION ABOUT	 -->
 <?php include (DIRREQ."core/templates/about.php");  ?>
