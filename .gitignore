@@ -10,7 +10,8 @@ composer.phar
 
 ### Application ###
 /config/
-core/images
+/core/images
+/.htaccess
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:

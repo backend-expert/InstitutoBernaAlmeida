@@ -235,15 +235,15 @@ img{
     display: flex;
     justify-content: center;
     padding-top: 1rem;
-    width: 120px;
-    height: 120px;
-    background-color: var(--first-color);
+    /* width: 180px;
+    height: 120px; */
+    /* background-color: var(--first-color); */
     border-radius: 50%;
     overflow: hidden;
 }
-.about__img img{
-    width: 100px;
-}
+/* .about__img img{
+    width: 200px;
+} */
 .about__subtitle{
     font-size: var(--h2-font-size);
     color: var(--first-color);
@@ -444,6 +444,10 @@ img{
     .home__img{
         width: 524px;
         right: 10%;
+    }
+
+    .home__title{
+        font-size: 2.5rem;
     }
 
     .about__container{
