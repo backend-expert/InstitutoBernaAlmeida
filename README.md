@@ -1,2 +1,2 @@
-# InstitutoBernaAlmeida
+# Instituto Berna Almeida
  Trabalho voluntário

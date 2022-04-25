@@ -7,9 +7,9 @@
                     <p>
                     CNPJ: 32.431.661/0001-68 - 32431661000168 <br>
 
-                    Razão Social: Instituto Berna Almeida-Iba <br>
+                    Razão Social: Instituto Berna Almeida-IBA <br>
 
-                    Nome Fantasia: Iba</p>
+                    Nome Fantasia: IBA</p>
                 </div>
 
                 <div class="footer__data">
