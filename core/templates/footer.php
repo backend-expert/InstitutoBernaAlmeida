@@ -23,6 +23,8 @@
                     <h2 class="footer__title">Junte-se à nós</h2>
                     <a href="https://www.facebook.com/institutobernalmeida" target="_blank" class="footer__social">Facebook</a>
                     <a href="https://www.instagram.com/institutobernalmeida" target="_blank" class="footer__social">Instagram</a>
+                    <a href="https://www.institutobernalmeida.com.br/blog" target="_blank" class="footer__social">Blog</a>
+
                 </div>
 
             </div>
