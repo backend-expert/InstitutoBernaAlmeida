@@ -9,10 +9,6 @@
 
 /*===== Colores =====*/
 :root{
-    /* --first-color: #5361FF;
-    --white-color: #FAFAFF;
-    --dark-color: #2A3B47;
-    --text-color: #697477; */
     --first-color: #412153;
     --white-color: #FAFAFF;
     --dark-color: #2A3B47;
@@ -21,11 +17,6 @@
 
 /*===== Fuente y tipografia =====*/
 :root{
-    /* --body-font: 'Montserrat', sans-serif;
-    --big-font-size: 6.25rem;
-    --h2-font-size: 1.25rem;
-    --normal-font-size: .938rem;
-    --small-font-size: .813rem; */
     --body-font: 'Montserrat', sans-serif;
     --big-font-size: 4.25rem;
     --h2-font-size: 1.25rem;
@@ -33,12 +24,6 @@
     --small-font-size: .813rem;
 }
 @media screen and (min-width: 768px){
-    /* :root{
-        --big-font-size: 10.5rem;
-        --h2-font-size: 2rem;
-        --normal-font-size: 1rem;
-        --small-font-size: .875rem;
-    } */
     :root{
         --big-font-size: 2rem;
         --h2-font-size: 2rem;
@@ -396,6 +381,10 @@ img{
   .home__img {
     width: 230px;
   }
+  .home__title{
+    font-size: 1.50rem;
+  }
+
 }
 
 @media screen and (min-width: 768px){
