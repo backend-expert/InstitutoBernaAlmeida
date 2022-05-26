@@ -6,17 +6,18 @@
 <?php include (DIRREQ."core/templates/header.php");  ?>
 
 <!-- START MAIN -->
-<!-- HOME -->
-<?php include (DIRREQ."core/templates/home.php");  ?>
 
-<!-- ARTIGOS RECENTES | BLOG	 -->
-<?php //include (DIRREQ."core/templates/archives-blog.php");  ?>
+    <!-- HOME -->
+    <?php include (DIRREQ."core/templates/home.php");  ?>
 
-<!-- SECTION ABOUT	 -->
-<?php include (DIRREQ."core/templates/about.php");  ?>
+    <!-- ARTIGOS RECENTES | BLOG	 -->
+    <?php include (DIRREQ."core/templates/archives-blog.php");  ?>
 
-<!-- SECTION PROJECTS -->
-<?php include (DIRREQ."core/templates/project.php");  ?>
+    <!-- SECTION ABOUT	 -->
+    <?php include (DIRREQ."core/templates/about.php");  ?>
+
+    <!-- SECTION PROJECTS -->
+    <?php include (DIRREQ."core/templates/project.php");  ?>
 
 <!-- END MAIN -->
 
