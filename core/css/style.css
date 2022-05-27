@@ -222,7 +222,7 @@ img{
 .about__img{
     display: flex;
     justify-content: center;
-    padding-top: 1rem;
+    /* padding-top: 1rem; */
     background-color: var(--first-color);
     border-radius: .5rem;
     overflow: hidden;
@@ -462,9 +462,9 @@ footer a {
         width: 200px;
         height: 200px;
     }
-    .about__img img{
+    /* .about__img img{
         width: 165px;
-    }
+    } */
 
     .skills__container{
         grid-template-columns: repeat(2, 1fr);
