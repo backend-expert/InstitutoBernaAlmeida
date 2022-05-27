@@ -185,7 +185,7 @@ img{
     overflow: hidden;
 }
 .home__container{
-    height: calc(100vh - var(--header-height));
+    height: calc(75vh - var(--header-height));
     row-gap: 5rem;
 }
 .home__title{
@@ -443,7 +443,7 @@ footer a {
     }
 
     .home__container{
-        height: 100vh;
+        height: 90vh;
         grid-template-rows: 1.7fr 1fr;
         row-gap: 0;
     }
