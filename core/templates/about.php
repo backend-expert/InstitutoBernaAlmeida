@@ -3,7 +3,7 @@
 
                 <div class="about__container bd-grid">
                     <div class="about__img">
-                        <img src="<?php echo DIRIMG.'logo_transparent.png'; ?>" alt="logo do Instituto Berna Almeida"> 
+                        <img src="<?php echo DIRIMG.'logo_small_150x150.jpg'; ?>" alt="logo do Instituto Berna Almeida"> 
                     </div>
 
                     <div>

@@ -223,15 +223,11 @@ img{
     display: flex;
     justify-content: center;
     padding-top: 1rem;
-    /* width: 180px;
-    height: 120px; */
-    /* background-color: var(--first-color); */
-    border-radius: 50%;
+    background-color: var(--first-color);
+    border-radius: .5rem;
     overflow: hidden;
 }
-/* .about__img img{
-    width: 200px;
-} */
+
 .about__subtitle{
     font-size: var(--h2-font-size);
     color: var(--first-color);
