@@ -46,11 +46,14 @@
                     </div>
 
                       <div class="portfolio__img">
-                        <a href="https://institutobernalmeida.com.br/blog/pedras-nos-rins-ou-no-trato-urinario-calculos-renais/"><img src="<?php echo DIRPAGE.'core/images-blog/Blausen_0595_KidneyStones-es-e1652553740183-1024x527.png'; ?>" alt="">
+                        
+                        <a href="https://institutobernalmeida.com.br/blog/pedras-nos-rins-ou-no-trato-urinario-calculos-renais/">
+                          <img src="<?php echo DIRPAGE.'core/images-blog/Blausen_0595_KidneyStones-es-e1652553740183-1024x527.png'; ?>" alt="">
 
                          
                           <h3> Pedras nos Rins ou no Trato Urinário (Cálculos Renais) </h3>
                           <p>O que é o trato urinário? O trato urinário inclui: Rins, órgãos com formato de feijão que produzem urina Ureteres, tubos que drenam a urina</p>
+                        </a>
                        
                       </div>
 
