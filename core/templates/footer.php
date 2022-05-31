@@ -26,6 +26,8 @@
                     <a href="https://www.institutobernalmeida.com.br/blog" target="_blank" class="footer__social">Blog</a>
 
                 </div>
+                
+                <!-- Trabalho voluntário desenvolvido by Isaque Menezes -->
 
             </div>
         </footer>
