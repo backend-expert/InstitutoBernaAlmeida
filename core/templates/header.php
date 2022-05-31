@@ -12,7 +12,7 @@
                         <li class="nav__item"><a href="#about" class="nav__link">Sobre</a></li>
                         <li class="nav__item"><a href="https://www.institutobernalmeida.com.br/blog" target="_blank" class="nav__link">Postagens</a></li>
                         <li class="nav__item"><a href="#projects" class="nav__link">Projetos</a></li>
-                        <li class="nav__item"><a href="https://wa.me/5561986788678" target="_blank" class="nav__link">Fazer uma Doação</a></li>
+                        <li class="nav__item"><a href="<?php echo DIRPAGE.'doacao.php#doacao';?>" class="nav__link">Fazer uma Doação</a></li>
                     </ul>
                 </div>
 
