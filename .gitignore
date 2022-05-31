@@ -3,11 +3,6 @@
 # composer,
 # windows
 
-### Composer ###
-composer.phar
-/vendor/
-
-
 ### Application ###
 /config/
 /core/images
