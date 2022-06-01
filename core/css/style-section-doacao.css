@@ -1,0 +1,36 @@
+/* STYLE BUTTON FACA SUA DOACAO  */
+.doacao {
+    display: flex;
+    justify-content: center;
+    background-color: #791453;
+    width: 65%;
+    margin: 3rem auto;
+    border-radius: .3rem;
+}
+
+.doacao__text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%; color: #fff;
+}
+
+.doacao__text h2 {
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 1px;
+  }
+
+
+.doacao__text a {
+    margin-right: 10%;
+    padding: 10px 15px;
+    background-color: #fff;
+    border-radius: .3rem;
+    color:  #1a262f;
+}
+
+.doacao__text a:hover {
+    transform: transparent;
+    transition: .2s;
+} 

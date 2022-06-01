@@ -6,13 +6,14 @@
 <?php include DIRREQ."core/templates/header.php";  ?>
 
 <!-- START MAIN -->
+<main class="l-main">
 
     <!-- HOME -->
     <?php include DIRREQ."core/templates/home.php";  ?>
 
     <!-- SECTION ABOUT	 -->
-    <?php include DIRREQ."core/templates/doacao_info.php";  ?>
-
+    <?php include DIRREQ."core/templates/section-doacao.php";  ?>
+</main>
 <!-- END MAIN -->
 
 <!-- FOOTER -->

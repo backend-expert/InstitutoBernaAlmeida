@@ -6,7 +6,7 @@
 <?php include (DIRREQ."core/templates/header.php");  ?>
 
 <!-- START MAIN -->
-
+<main class="l-main">
     <!-- HOME -->
     <?php include (DIRREQ."core/templates/home.php");  ?>
 
@@ -19,6 +19,10 @@
     <!-- SECTION PROJECTS -->
     <?php include (DIRREQ."core/templates/project.php");  ?>
 
+    <!-- SECTION  FACA SUA DOACAO -->
+    <?php include (DIRREQ."core/templates/section-button-doacao.php");  ?>
+
+</main>
 <!-- END MAIN -->
 
 <!-- FOOTER -->
