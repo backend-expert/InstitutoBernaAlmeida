@@ -39,12 +39,10 @@
 /* For small devices */
 @media screen and (max-width: 480px) {
     .doacao__text h2 {
-        font-size: 15px;        
+        font-size: 16px;        
     }
     .doacao__text a {
-       
-        padding: 5px 7px;
-       
+        padding: 5px 10px;
     }
     
   
