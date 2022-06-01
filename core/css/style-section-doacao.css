@@ -34,3 +34,18 @@
     transform: transparent;
     transition: .2s;
 } 
+
+/* ===== MEDIA QUERIES =====*/
+/* For small devices */
+@media screen and (max-width: 480px) {
+    .doacao__text h2 {
+        font-size: 15px;        
+    }
+    .doacao__text a {
+       
+        padding: 5px 7px;
+       
+    }
+    
+  
+  }
