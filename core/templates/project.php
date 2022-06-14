@@ -3,7 +3,7 @@
 
                 <div class="portfolio__container bd-grid">
                     <div class="portfolio__img">
-                        <img src="<?php echo DIRIMG.'project_conte_comigo_g.jpg'; ?>" alt="">
+                        <img src="<?php echo DIRIMG.'conte-comigo.jpg'; ?>" alt="logotipo do project conte comigo">
 
                         <div class="portfolio__link">
                             <a href="https://www.facebook.com/projetoconteccomigo" class="portfolio__link-name" target="_blank">Saiba +</a>
@@ -16,7 +16,7 @@
                     </div>
 
                     <div class="portfolio__img">
-                        <img src="<?php echo DIRIMG.'cqc_cartasqcuram.jpg'; ?>" alt="">
+                        <img src="<?php echo DIRIMG.'cqc_cartasqcuram.jpg'; ?>" alt="logotipo do project cartas que curam cqc">
 
                         <div class="portfolio__link">
                             <a href="https://www.facebook.com/cqccartasqcuram" class="portfolio__link-name" target="_blank">Saiba +</a>
