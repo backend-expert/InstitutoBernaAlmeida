@@ -13,21 +13,21 @@
     --white-color: #FAFAFF;
     --dark-color: #2A3B47;
     --title-color: #AB83FF;
-    /* --text-color: #AB83FF; */
     --text-color:#1a262f;
 }
 
 /*===== Fuente y tipografia =====*/
 :root{
     --body-font: 'Montserrat', sans-serif;
-    --big-font-size: 4.25rem;
+    --big-font-size: 3.25rem;
     --h2-font-size: 1.25rem;
     --normal-font-size: .938rem;
     --small-font-size: .813rem;
 }
+
 @media screen and (min-width: 768px){
     :root{
-        --big-font-size: 2rem;
+        --big-font-size: 1.5rem;
         --h2-font-size: 2rem;
         --normal-font-size: 1rem;
         --small-font-size: .875rem;
@@ -190,7 +190,7 @@ img{
 }
 .home__title{
     align-self: flex-end;
-    font-size: var(--big-font-size);
+    font-size: 3.4rem;
     color: var(--white-color);
     line-height: .8;
 }
@@ -445,7 +445,7 @@ footer a {
     }
 
     .home__title{
-        font-size: 2.5rem;
+        font-size: 3rem;
     }
 
     .about__container{
@@ -458,9 +458,6 @@ footer a {
         width: 200px;
         height: 200px;
     }
-    /* .about__img img{
-        width: 165px;
-    } */
 
     .skills__container{
         grid-template-columns: repeat(2, 1fr);
@@ -472,14 +469,6 @@ footer a {
         grid-template-rows: repeat(2, 1fr);
         column-gap: 2rem;
     }
-
-    /* .contact__container{
-        grid-template-columns: repeat(2, 1fr);
-        justify-items: center;
-    }
-    .contact__form{
-        width: 380px;
-    } */
 
     .footer__container{
         grid-template-columns: repeat(3, 1fr);
