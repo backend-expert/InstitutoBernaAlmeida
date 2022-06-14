@@ -222,10 +222,6 @@ img{
 .about__img{
     display: flex;
     justify-content: center;
-    /* padding-top: 1rem; */
-    background-color: var(--first-color);
-    border-radius: .5rem;
-    overflow: hidden;
 }
 
 .about__subtitle{
