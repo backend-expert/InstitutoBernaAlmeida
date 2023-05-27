@@ -4,7 +4,7 @@
 # windows
 
 ### Application ###
-/config/
+#/config/
 /.htaccess
 
 ### Git ###
