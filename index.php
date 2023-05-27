@@ -59,11 +59,7 @@
             </div>
         </section>
 
-        <!-- ARTIGOS RECENTES | BLOG	 -->
-        <?php include (DIRREQ."core/templates/archives-blog.php"); 
-        
        
-        ?>
 
         <!-- SECTION ABOUT	 -->
         <section class="about section" id="about">
@@ -99,8 +95,12 @@
         <!-- SECTION PROJECTS -->
         <?php include (DIRREQ."core/templates/project.php");  ?>
 
+        <!-- ARTIGOS RECENTES | BLOG	 -->
+        <?php include (DIRREQ."core/templates/archives-blog.php");  ?>
+
         <!-- SECTION  FACA SUA DOACAO -->
         <section class="doacao section">
+            
             <div class="doacao__text">
                 <h2>Faça Sua Doação</h2>
                 <a href="<?php echo DIRPAGE.'doacao.php#doacao';?>" >Doe Agora </a>
