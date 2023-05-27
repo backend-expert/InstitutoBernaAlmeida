@@ -6,7 +6,11 @@
         $pastaInterna="github/InstitutoBernaAlmeida/";
 
     } else {
-        $pastaInterna = "/";
+        
+        if($_SERVER['HTTP_HOST'] === "institutobernalmeida.com.br") {
+
+            $pastaInterna = "/";
+        }
       
     }
 
