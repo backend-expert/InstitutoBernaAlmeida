@@ -60,7 +60,10 @@
         </section>
 
         <!-- ARTIGOS RECENTES | BLOG	 -->
-        <?php include (DIRREQ."core/templates/archives-blog.php");  ?>
+        <?php include (DIRREQ."core/templates/archives-blog.php"); 
+        
+        var_dump($_SERVER['HTTP_HOST']);
+        ?>
 
         <!-- SECTION ABOUT	 -->
         <section class="about section" id="about">
